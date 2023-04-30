@@ -1,0 +1,59 @@
+nav {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #1288EA;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    max-width: 80%;
+    font-size: 200%;
+    margin-top: 1%;
+    padding-top: 1%;
+}
+body {
+    background-color: #574141;
+}
+a:link {
+    color: #2597E7;
+}
+a:visited {
+    color: #AD24E7;
+    padding-top: 10%;
+}
+#questionSurvey {
+    color: #1BCAE9;
+}
+.box1 {
+    font-size: 250%;
+    text-decoration: underline;
+}
+.tableSetting1 {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3%;
+}
+.tableSetting2 {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 6%;
+}
+.educationIMG1 {
+    margin-left: 0px;
+    float: right;
+    margin-right: 33%;
+}
+.educationIMG2 {
+    margin-right: 33%;
+    margin-left: 20%;
+}
+.tableText {
+    color: #1BCAE9;
+    width: 50%;
+    text-align: center;
+}
+.tableText2 {
+    width: 50%;
+    color: #1BCAE9;
+    font-size: x-large;
+    text-align: center;
+}
